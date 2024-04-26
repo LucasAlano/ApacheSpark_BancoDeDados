@@ -2,6 +2,8 @@
 
 Este repositório fornece instruções para configurar um ambiente de desenvolvimento PySpark e JupyterLab usando Docker.
 
+Acadêmicos: Lucas de Oliveira Alano & João Victor Miontelli Vitali
+
 ## PRÉ-REQUISITOS
 
 - Docker instalado em seu sistema.
